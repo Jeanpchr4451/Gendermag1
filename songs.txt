@@ -1,0 +1,26 @@
+Song ID	Song Name	Artist	Album	Release Year
+1051274	Take On Me	A-ha	Hunting High and Low	1985
+2369874	Bitter Sweet Symphony	The Verve	Urban Hymns	1997
+5573132	Thriller	Michael Jackson	Thriller	1982
+3210786	Dreams	Fleetwood Mac	Rumours	1977
+9886321	Smooth	Santana ft. Rob Thomas	Supernatural	1999
+7789812	Take My Breath Away	Berlin	Top Gun Soundtrack	1986
+8923641	Shallow	Lady Gaga, Bradley Cooper	A Star is Born Soundtrack	2018
+5502011	Purple Rain	Prince	Purple Rain	1984
+4439008	Don't Stop Believin'	Journey	Escape	1981
+4572361	I Will Always Love You	Whitney Houston	The Bodyguard Soundtrack	1992
+6981524	Somebody That I Used to Know	Gotye ft. Kimbra	Making Mirrors	2011
+6689032	Hallelujah	Jeff Buckley	Grace	1994
+3904651	Stairway to Heaven	Led Zeppelin	Led Zeppelin IV	1971
+7890136	All About That Bass	Meghan Trainor	Title	2014
+5567489	Rolling in the Deep	Adele	21	2010
+1094872	Billie Jean	Michael Jackson	Thriller	1982
+4287063	Livin' on a Prayer	Bon Jovi	Slippery When Wet	1986
+8652921	Can't Stop the Feeling!	Justin Timberlake	Trolls Soundtrack	2016
+3025093	Hey Jude	The Beatles	The Beatles	1968
+7560491	Every Breath You Take	The Police	Synchronicity	1983
+7296987	I Want to Hold Your Hand	The Beatles	Meet the Beatles	1963
+4398671	My Heart Will Go On	Celine Dion	Titanic Soundtrack	1997
+5010059	Shape of You	Ed Sheeran	÷	2017
+3157524	Wonderwall	Oasis	(What's the Story) Morning Glory?	1995
+5471638	Sweet Child o' Mine	Guns N' Roses	Appetite for	
